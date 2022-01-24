@@ -47,7 +47,7 @@ A 3rd-year student pursuing Bachelors in Computer Engineering from CHARUSAT Univ
 
 <h3>Daylily Random comic strip</h3>
 <p align="center">
- <a href="https://xkcd.com/">
+ <a href="https://reddit.com/">
  <img height="500px" src="https://i.redd.it/vszzw6r45hd81.jpg" />
 </a>
 </p>
