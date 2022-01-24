@@ -42,7 +42,7 @@ A 3rd-year student pursuing Bachelors in Computer Engineering from CHARUSAT Univ
 <hr>
 
 <p align="center">
-  <img src="github-user-contribution.svg" alt="snake"></center>
+  <img src="https://raw.githubusercontent.com/manthanoice/manthanoice/152d85cde861ec3d1e755e729adc258e9934d772/github-contribution-grid-snake.svg?token=AQP436BEM6OUBWWMPNJOYCDB52LYM" alt="snake"></center>
 </p>
 
 <h3>Daylily Random comic strip</h3>
