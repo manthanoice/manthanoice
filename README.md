@@ -37,7 +37,7 @@ A 3rd-year student pursuing Bachelors in Computer Engineering from CHARUSAT Univ
 <p align="center">
 <a href="https://www.linkedin.com/in/manthan-bosamiya-050303213/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/61/61109.png" alt="manthan bosamiya" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/damnitmanthan" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25347.png" alt="damnitmanthan" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/pebkac_" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3661/premium/3661391.png?token=exp=1643024435~hmac=779113437ed8061468374f76d6da677b" alt="pebkac_" height="50" width="50" /></a>
+<a href="https://instagram.com/pebkac_" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1400/1400829.png" alt="pebkac_" height="50" width="50" /></a>
 </p>
 
 
