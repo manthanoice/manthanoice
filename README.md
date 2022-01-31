@@ -47,7 +47,7 @@ A 3rd-year student pursuing Bachelors in Computer Engineering from CHARUSAT Univ
 
 <h3>Daylily Random comic strip</h3>
 <p align="center">
- <a href="https://www.reddit.com/r/ProgrammerHumor/comments/sbjg7e/it_sounded_funnier_in_my_head_ok/">
- <img height="500px" src="https://i.redd.it/5kze5j368md81.jpg" />
+ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/sgkahh/i_havent_understood_what_rust_is_for/">
+ <img height="500px" src="https://i.redd.it/ic5cukleewe81.jpg" />
 </a>
 </p>
