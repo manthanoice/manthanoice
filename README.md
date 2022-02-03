@@ -48,6 +48,6 @@ A 3rd-year student pursuing Bachelors in Computer Engineering from CHARUSAT Univ
 <h3>Daylily Random comic strip</h3>
 <p align="center">
  <a href="https://www.reddit.com/r/ProgrammerHumor/comments/sha7fm/telling_you_from_personal_experience/">
- <img height="600px" src="https://i.redd.it/p4xwqosru2f81.jpg" />
+ <img height="900px" src="https://i.redd.it/p4xwqosru2f81.jpg" />
 </a>
 </p>
