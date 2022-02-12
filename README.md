@@ -20,12 +20,14 @@ A 3rd-year student pursuing Bachelors in Computer Engineering from CHARUSAT Univ
 <p>
 <a align= "center" href="https://github.com/manthanoice">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=manthanoice&theme=radical">
-<img align="right" height="400" width="400" src="https://c.tenor.com/JJ_is357rXYAAAAS/spike-monkey-typing.gif?style=styles" /> </a>
+<img align="right" height="400" width="400" src="https://c.tenor.com/JJ_is357rXYAAAAS/spike-monkey-typing.gif?#mymargin" /> </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=manthanoice&count_private=true&theme=radical&show_icons=true" />
-img[src$="styles"] {
+
+img[src=*="#mymargin"]{
   margin-top:100px;
 }
+
 <!-- <img align='right' height="300px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthanoice" /> -->
 <br>
 <p align="left">
