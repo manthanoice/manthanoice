@@ -40,7 +40,7 @@ A 3rd-year student pursuing Bachelors in Computer Engineering from CHARUSAT Univ
 
 <br>
 <p align="center">
-  <img alt="language-card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthanoice&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats">
+  <img alt="language-card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthanoice&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats">
 </p>
 
 <hr>
