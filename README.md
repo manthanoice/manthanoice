@@ -20,7 +20,7 @@ A 3rd-year student pursuing Bachelors in Computer Engineering from CHARUSAT Univ
 <p>
 <a align= "center" href="https://github.com/manthanoice">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=manthanoice&theme=radical">
-<img style="margin-top:100px; margin-right:40px;" align="right" height="400" width="400" src="https://c.tenor.com/JJ_is357rXYAAAAS/spike-monkey-typing.gif" /> </a>
+<img style="margin-top:100px" align="right" height="400" width="400" src="https://c.tenor.com/JJ_is357rXYAAAAS/spike-monkey-typing.gif" /> </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=manthanoice&count_private=true&theme=radical&show_icons=true" />
 <!-- <img align='right' height="300px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthanoice" /> -->
@@ -50,8 +50,9 @@ A 3rd-year student pursuing Bachelors in Computer Engineering from CHARUSAT Univ
 </p>
 
 <h3>Daylily Random comic strip!</h3>
+<br>
 <p align="center">
  <a href="https://www.reddit.com/r/ProgrammerHumor/comments/spxfi3/loooopss/">
- <img height="900px" src="https://i.redd.it/3woee4fhx6h81.jpg"/>
+ <img height="500px" src="https://i.redd.it/3woee4fhx6h81.jpg"/>
 </a>
 </p>
