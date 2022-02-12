@@ -38,6 +38,8 @@ A 3rd-year student pursuing Bachelors in Computer Engineering from CHARUSAT Univ
 <a href="https://instagram.com/pebkac_" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1400/1400829.png" alt="pebkac_" height="50" width="50" /></a>
 </p>
 
+<br>
+<img style="margin-left: 385px" alt="language-card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthanoice&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
 
 <hr>
 
