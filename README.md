@@ -28,8 +28,11 @@ A 3rd-year student pursuing Bachelors in Computer Engineering from CHARUSAT Univ
 </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=manthanoice&count_private=true&theme=radical&show_icons=true" />
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> dd70d530989d3d8bc441759a3cbd2e471b20debe
 <!-- <img align='right' height="300px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthanoice" /> -->
 <br>
 <p align="left">
