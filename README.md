@@ -16,17 +16,19 @@ A 3rd-year student pursuing Bachelors in Computer Engineering from CHARUSAT Univ
 
 <br>
 
+<!-- ![Monke](https://c.tenor.com/JJ_is357rXYAAAAS/spike-monkey-typing.gif/){: width: 300 height: 300} -->
+![Kitten](https://c.tenor.com/JJ_is357rXYAAAAS/spike-monkey-typing.gif/){: width=150 height=100 style="float:right; padding:16px"}
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manthanoice&label=Profile%20views&color=0e75b6&style=flat" alt="manthanoice" /> </p>
 <p>
 <a align= "center" href="https://github.com/manthanoice">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=manthanoice&theme=radical">
-<img align="right" height="400" width="400" src="https://c.tenor.com/JJ_is357rXYAAAAS/spike-monkey-typing.gif?#mymargin" /> </a>
+<!-- <img align="right" height="400" width="400" src="https://c.tenor.com/JJ_is357rXYAAAAS/spike-monkey-typing.gif/">  -->
+</a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=manthanoice&count_private=true&theme=radical&show_icons=true" />
 
-img[src=*="#mymargin"]{
-  margin-top:100px;
-}
 
 <!-- <img align='right' height="300px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthanoice" /> -->
 <br>
@@ -57,7 +59,7 @@ img[src=*="#mymargin"]{
 <h3>Daylily Random comic strip!</h3>
 <br>
 <p align="center">
- <a href="https://www.reddit.com/r/ProgrammerHumor/comments/spxfi3/loooopss/">
- <img height="500px" src="https://i.redd.it/3woee4fhx6h81.jpg"/>
+ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ss39h4/ml_truth/">
+ <img height="500px" src="https://i.redd.it/5fv4s3o8mqh81.jpg"/>
 </a>
 </p>
