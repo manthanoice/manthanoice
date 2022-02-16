@@ -42,8 +42,8 @@ A 3rd-year student pursuing Bachelors in Computer Engineering from CHARUSAT Univ
 </p>
 <h3>Daylily Random comic strip</h3>
 <p align="center">
- <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ss39h4/ml_truth/">
- <img height="600px" src="https://i.redd.it/5fv4s3o8mqh81.jpg" />
+ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/stgwoz/i_write_code/">
+ <img height="600px" src="https://i.redd.it/wqzfwrl323i81.jpg" />
  <!-- <img height="900px" src="https://i.redd.it/p4xwqosru2f81.jpg" /> -->
 </a>
 </p>
