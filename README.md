@@ -40,7 +40,7 @@ A 3rd-year student pursuing Bachelors in Computer Engineering from CHARUSAT Univ
 <p align="center">
   <img src="https://raw.githubusercontent.com/manthanoice/manthanoice/152d85cde861ec3d1e755e729adc258e9934d772/github-contribution-grid-snake.svg?token=AQP436BEM6OUBWWMPNJOYCDB52LYM" alt="snake"></center>
 </p>
-<h3>Daylily Random comic strip</h3>
+<h3>Daily Random comic strip</h3>
 <p align="center">
  <a href="https://www.reddit.com/r/ProgrammerHumor/comments/stgwoz/i_write_code/">
  <img height="600px" src="https://i.redd.it/wqzfwrl323i81.jpg" />
